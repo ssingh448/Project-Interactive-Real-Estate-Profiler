@@ -1,0 +1,23 @@
+version: "3.9"
+services:
+  front_end:
+    build:
+      context: .
+      dockerfile: front_end_dockerfile
+    ports:
+      - "8080:8080"
+    networks:
+      - project
+
+  model:
+    build:
+      context: .
+      dockerfile: model_dockerfile
+    ports:
+      - "8081:8081"
+    networks:
+      - project
+
+networks:
+  project:
+    external: false

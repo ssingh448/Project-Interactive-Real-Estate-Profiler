@@ -1,0 +1,5 @@
+FROM node:19-bullseye
+COPY ./front-end /front-end
+WORKDIR /front-end
+RUN npm ci
+CMD ["npm","run","start-dev"]

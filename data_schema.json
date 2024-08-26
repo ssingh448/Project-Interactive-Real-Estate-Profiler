@@ -1,0 +1,35 @@
+{
+  "overview": {
+    "<zip_codde>": {
+      "median_home_price": 100000,
+      "crime_rate": 0.5,
+      "other_stats": "other_stats"
+    }
+  },
+  "prediction": {
+    "home_price": 252353,
+    "rental_price": 2242,
+    "average_national_price": 24524,
+    "s&p500_price": 3546,
+    "growth_rate": {
+      "5_year": {
+        "local": 0.03,
+        "s&p": 0.03,
+        "rental": 0.03,
+        "national": 0.07
+      },
+      "10_year": {
+        "local": 0.03,
+        "s&p": 0.03,
+        "rental": 0.03,
+        "national": 0.07
+      },
+      "30_year": {
+        "local": 0.03,
+        "s&p": 0.03,
+        "rental": 0.03,
+        "national": 0.07
+      }
+    }
+  }
+}

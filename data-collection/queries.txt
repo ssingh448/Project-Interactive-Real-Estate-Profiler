@@ -1,0 +1,34 @@
+Bronx, NY
+Brooklyn, NY
+Manhattan, NY
+Queens, NY
+Staten Island, NY
+Buffalo, NY
+Rochester, NY
+Yonkers, NY
+Syracuse, NY
+Albany, NY
+New Rochelle, NY
+Mount Vernon, NY
+Schenectady, NY
+Utica, NY
+Newark, NJ
+Jersey City, NJ
+Paterson, NJ
+Elizabeth, NJ
+Trenton, NJ
+Clifton, NJ
+Camden, NJ
+Passaic, NJ
+Bayonne, NJ
+East Orange, NJ
+Bridgeport, CT
+Stamford, CT
+New Haven, CT
+Hartford, CT
+Waterbury, CT
+Norwalk, CT
+Danbury, CT
+New Britain, CT
+Bristol, CT
+Meriden, CT
